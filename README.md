@@ -7,8 +7,6 @@ I build production-grade AI agent platforms and telephony integrations. My recen
 
 <!-- Profile cards -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hlamida&layout=compact&hide=html)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hlamida&show_icons=true&count_private=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hlamida&theme=radical)
 
 Note: The stats image can show private repo data only if an access token is configured for the image service.
 
